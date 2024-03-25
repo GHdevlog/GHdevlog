@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk8339)](https://solved.ac/jk8339)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk8339)](https://solved.ac/profile/jk8339)
 
 <!-- Github 통계 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHdevlog&theme=catppuccin_latte&show_icons=true)
