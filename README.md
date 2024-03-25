@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <!-- 마크다운 편집기 https://capsule-render.vercel.app/ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Wellcome%20to%20&section=header&textBg=false&fontAlignY=40&animation=fadeIn&desc=GH's%20Devlog&reversal=false&descAlign=60&descAlignY=55&fontSize=60&descSize=40&fontAlign=45">
+
 
 <!--<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/> -->
 
@@ -41,3 +42,8 @@ Here are some ideas to get you started:
 
 <!-- 조회수 카운터 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHdevlog%2F&count_bg=%233FCDFF&title_bg=%236FDD14&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+<!-- 마크다운 편집기 https://capsule-render.vercel.app/ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Thanks%20to%20visit&section=footer&textBg=false&fontAlignY=50&animation=fadeIn&desc=GH's%20Devlog&reversal=false&descAlign=60&descAlignY=70&fontSize=60&descSize=40&fontAlign=45">
