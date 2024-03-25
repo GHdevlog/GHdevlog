@@ -24,14 +24,16 @@ Here are some ideas to get you started:
 <img alt="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk8339)](https://solved.ac/profile/jk8339)
-
 <!-- Github 통계 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHdevlog&theme=catppuccin_latte&show_icons=true)
 
 <!-- 업로드 파일 유형 카운터 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHdevlog&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- 백준 온라인 저지 배지 -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jk8339)](https://solved.ac/profile/jk8339)
 
 <!-- 조회수 카운터 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGHdevlog%2F&count_bg=%233FCDFF&title_bg=%236FDD14&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
