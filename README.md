@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="C_lang" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/>
-
+<img alt="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <!-- Github 통계 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHdevlog&theme=catppuccin_latte&show_icons=true)
 
