@@ -17,18 +17,41 @@ Here are some ideas to get you started:
 <!-- 아이콘 제작 https://img.shields.io/badges/-->
 <!--<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/> -->
 
+
 <div align=center>
     <!-- 마크다운 편집기 https://capsule-render.vercel.app/ -->
     <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Wellcome%20to%20&section=header&textBg=false&fontAlignY=40&animation=fadeIn&desc=GH's%20Devlog&reversal=false&descAlign=60&descAlignY=60&fontSize=60&descSize=40&fontAlign=45">
 </div>
 
+# Skills
 
-<div align=center>	
-    <img alt="C_lang" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/><br>
+## Web
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+
+## Web
+![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+# blog
+![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+# Contract
+![Static Badge](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
+![Static Badge](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+<!--
+<div align=center>
+    <h2>📚 STACKS</h2>
+    <img alt="C_lang" src ="https://img.shields.io/badge/c-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/> <img alt="java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white"/><br>
     <img alt="html5" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img alt="css3" src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
     <img alt="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br>
     <img alt="naver" src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img alt="gmail" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"><br>
 </div>
+-->
 
 ----
 
