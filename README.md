@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <img alt="notion" src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img alt="github" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<img alt="naver" src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> <img alt="gmail" src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 
 <!-- Github 통계 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHdevlog&theme=catppuccin_latte&show_icons=true)
