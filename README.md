@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 아이콘 찾기 https://simpleicons.org/ -->
-<!-- 아이콘 제작 https://img.shields.io-->
+<!-- 아이콘 제작 https://img.shields.io/badges/-->
 <!--<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/> -->
 
 <div align=center>
