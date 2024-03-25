@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 마크다운 편집기 https://capsule-render.vercel.app/ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Wellcome%20to%20&section=header&textBg=false&fontAlignY=40&animation=fadeIn&desc=GH's%20Devlog&reversal=false&descAlign=60&descAlignY=55&fontSize=60&descSize=40&fontAlign=45">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Wellcome%20to%20&section=header&textBg=false&fontAlignY=40&animation=fadeIn&desc=GH's%20Devlog&reversal=false&descAlign=60&descAlignY=60&fontSize=60&descSize=40&fontAlign=45">
 
 
 <!--<img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/> -->
