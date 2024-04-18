@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 
 # Skills
 
-## Web
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
