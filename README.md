@@ -26,17 +26,17 @@ Here are some ideas to get you started:
 # Skills
 
 [![Static Badge](https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white)](https://github.com/GHdevlog/c_lang_study)
-![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/GHdevlog/Java_study)
+[![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/GHdevlog/python_study)
 
 ## Web
-![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Static Badge](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/GHdevlog/Web_study)
+[![Static Badge](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/GHdevlog/Web_study)
+[![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/GHdevlog/Web_study)
 
 # blog
-![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Static Badge](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ghdevlog.notion.site/GH-Devlog-4ffdbcc9644f4282835b417083c61041?pvs=74)
+[![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GHdevlog)
 
 # Contract
 ![Static Badge](https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)
